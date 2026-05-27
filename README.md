@@ -10,13 +10,11 @@
 
 ## SwiftUI StreamChat SDK
 
-We have redesigned the SwiftUI SDK with a new modern look, a unified design system, cleaner API and many other improvements. The new major v5 version is available since April, 2026. To learn more, check our [v5 docs](https://getstream.io/chat/docs/sdk/ios/).
+The SwiftUI SDK is a modern chat framework built fully with SwiftUI, offering customizable UI components and a clean developer experience for building chat applications on iOS. It is powered by the underlying Stream Chat SDK and provides ready-to-use chat features with minimal setup.
 
-If you are still using our previous version, the v4 releases are available [here](https://github.com/GetStream/stream-chat-swiftui/releases).
+You can explore the SwiftUI SDK documentation here: SwiftUI SDK Docs
 
-The SwiftUI SDK is built on top of the [StreamChat](https://getstream.io/chat/docs/ios-swift/?language=swift) framework and it's a SwiftUI alternative to the [StreamChatUI](https://getstream.io/chat/docs/sdk/ios/) SDK. It's built completely in SwiftUI, using declarative patterns, that will be familiar to developers working with SwiftUI. The SDK includes an extensive set of performant and customizable UI components which allow you to get started quickly with little to no plumbing required.
-
-The complete documentation and capabilities of the SwiftUI SDK can be found [here](https://getstream.io/chat/docs/sdk/ios/swiftui/) and you may find our [SwiftUI Chat App tutorial](https://getstream.io/tutorials/swiftui-chat/) helpful as well.
+For older releases, previous versions are available here: SwiftUI SDK Releases
 
 ## Main Features
 
